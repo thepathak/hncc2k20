@@ -1,5 +1,5 @@
 
-![](https://github.com/thepathak/hncc2k20/blob/main/img3.png =400x200)
+![](https://github.com/thepathak/hncc2k20/blob/main/img3.png)
 
 # HNCC 2K20 WEBSITE
 
